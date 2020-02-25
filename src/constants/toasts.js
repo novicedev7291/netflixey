@@ -1,0 +1,1 @@
+export const helpMsg = "This app uses MACHINE LEARNING to show movies and Everyone loves new movies but this app recommends some oldies!";
